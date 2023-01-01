@@ -1405,7 +1405,7 @@
     "mathjax": "^2.7.5",
     "mathjax-node": "2.1.1",
     "micromatch": "^3.0.0",
-    "pdfjs-dist": "2.0.943",
+    "pdfjs-dist": "2.16.105",
     "strip-json-comments": "^2.0.1",
     "tmp": "^0.0.33",
     "ws": "^5.1.1"
@@ -1418,10 +1418,10 @@
     "@types/node": "^10.12.12",
     "@types/tmp": "^0.0.33",
     "@types/ws": "^4.0.2",
-    "ts-loader": "^5.2.1",
+    "ts-loader": "^9.4.2",
     "tslint": "^5.0.0",
     "typescript": "^3.5.3",
     "vscode": "^1.1.14",
-    "webpack": "^4.20.2"
+    "webpack": "^5.75.0"
   }
 }
